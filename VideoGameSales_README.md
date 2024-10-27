@@ -65,9 +65,3 @@ Contributions are welcome! Please open an issue or submit a pull request with im
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-Feel free to reach out if you have questions or suggestions:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
